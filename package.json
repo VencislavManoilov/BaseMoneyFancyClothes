@@ -1,0 +1,17 @@
+{
+  "name": "project-2-base-money-fancy-clothes",
+  "version": "1.0.0",
+  "description": "This project is made for illigal purchases and making me rich!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Vencislav Manoilov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
